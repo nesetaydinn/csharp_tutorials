@@ -24,3 +24,13 @@ sudo apt-get update; \
   sudo apt-get update && \
   sudo apt-get install -y aspnetcore-runtime-6.0
 ```
+## Install vscode on Ubuntu 20.04 and install some extensions
+```bash
+sudo snap install --classic code
+```
+After vscode has been install, touch <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>X</kbd> and install this extensions;
+1. C#
+2. vscode-icons
+
+## Tutorial docs
+1. Fİrst tutorial: Create first project and print Hello, Aliens! <link-come-here>

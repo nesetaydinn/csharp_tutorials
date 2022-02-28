@@ -1,4 +1,4 @@
-# csharp_tutorials
+# csharp_tutorials on .Net 
 
 ## Install dotnet core on Ubuntu 20.04
 - 1st Step:

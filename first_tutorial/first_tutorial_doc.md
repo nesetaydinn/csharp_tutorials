@@ -1,18 +1,18 @@
 # 1st Tutorial
 
-## Create a folder and open in the folder
+## Create a folder and open in the terminal
 
 ```bash
 mkdir first_tutorial && cd first_tutorial
 ```
 ## Import the folder in vscode
 <kbd>Ctrl</kbd> + <kbd>K</kbd> + <kbd>O</kbd> and select your project path
-## Create dotnet project
-- Firstly check dotnetcore, if you paste this command;
+## Create a dotnet project
+- Firstly you paste this command, and check dotnetcore;
 ```bash
 dotnet --info
 ```
-Then give a basic information about on .Net sdk:
+Then you see a basic information about to .Net sdk on terminal:
 ```terminal
 .NET SDK (reflecting any global.json):
  Version:   6.0.200
@@ -43,19 +43,19 @@ Or you can check only verision
 ```bash
 dotnet --version
 ```
-Therefore the export on terminal as like be:
+Then the export on terminal as like be:
 ```terminal
 6.0.200
 ```
 You can learn the sub-commands with help command:
-```bash
-dotnet --help
-```
+`bash
+dotnet --help 
+`
 Or 
-```bash
+`bash
 dotnet -h
-```
-The sub-commands:
+`
+The sub-command outputs:
 ```terminal
 .NET SDK (6.0.200)
 Usage: dotnet [runtime-options] [path-to-application] [arguments]
@@ -126,7 +126,7 @@ And check our location in terminal:
 ```bash
 pwd
 ```
-The output as like this;
+The output must be as like this;
 ```terminal
 /home/nesh/csharp_tutorials/first_tutorial
 ```
@@ -151,7 +151,7 @@ And dotnet has been create a obj folder, and a .csprojfile and .cs file, i 'll m
 // See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 ```
-You see a comment line and a Console.WriteLine method(this method works same std::cout or printf), i change the sentence and remove the comment line;
+You see a comment line and a Console.WriteLine method(this method works as similarly to std::cout or printf), i change the sentence and remove the comment line;
 ```c#
 Console.WriteLine("Hello, Aliens!");
 ```

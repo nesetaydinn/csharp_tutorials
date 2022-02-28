@@ -48,13 +48,8 @@ Then the export on terminal as like be:
 6.0.200
 ```
 You can learn the sub-commands with help command:
-`bash
-dotnet --help 
-`
-Or 
-`bash
-dotnet -h
-`
+`bash dotnet --help` or `bash dotnet -h`
+
 The sub-command outputs:
 ```terminal
 .NET SDK (6.0.200)

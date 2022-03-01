@@ -47,7 +47,7 @@ Then the export on terminal as like be:
 ```terminal
 6.0.200
 ```
-You can learn the sub-commands with help command:
+You can learn the options and SDK commands with help command:
 `bash dotnet --help` or `bash dotnet -h`
 
 The sub-command outputs:
@@ -123,13 +123,13 @@ pwd
 ```
 The output must be as like this;
 ```terminal
-/home/nesh/csharp_tutorials/first_tutorial
+/home/your_user_name/csharp_tutorials/first_tutorial
 ```
-After the checking run this command;
+After the checking, run this command;
 ```bash
 dotnet new console
 ```
-If dont a mistake, the outputs would be these;
+If don't a mistake, the outputs would be these;
 ```terminal
 The template "Console App" was created successfully.
 
@@ -139,7 +139,7 @@ Running 'dotnet restore' on /home/nesh/csharp_tutorials/first_tutorial/first_tut
   Restored /home/nesh/csharp_tutorials/first_tutorial/first_tutorial.csproj (in 94 ms).
 Restore succeeded.
 ```
-And dotnet has been create a obj folder, and a .csprojfile and .cs file, i 'll mention to files and folder but now, we try a print some words("Hello, aliens!") on terminal in the first tutorial.
+And dotnet created obj folder, and .csprojfile and .cs files, i 'll mention to files and folder but now, we try a print some words("Hello, aliens!") on terminal in the first tutorial.
 
 - Now, open the **_Program.cs_** file;
 ```c#

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--
  Copyright (c) 2022 Neşet Aydın
  
@@ -6,6 +7,9 @@
 -->
 
 # csharp_tutorials
+=======
+# csharp_tutorials on .Net 
+>>>>>>> c8cd4a37b49e047c5286a5144a8718e6942075c2
 
 ## Install dotnet core on Ubuntu 20.04
 - 1st Step:

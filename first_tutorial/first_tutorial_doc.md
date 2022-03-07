@@ -1,3 +1,10 @@
+<!--
+ Copyright (c) 2022 Neşet Aydın
+ 
+ This software is released under the MIT License.
+ https://opensource.org/licenses/MIT
+-->
+
 # 1st Tutorial
 
 ## Create a folder and open in the terminal

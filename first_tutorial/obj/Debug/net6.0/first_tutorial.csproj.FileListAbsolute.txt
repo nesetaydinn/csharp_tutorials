@@ -1,3 +1,8 @@
+// Copyright (c) 2022 Neşet Aydın
+// 
+// This software is released under the MIT License.
+// https://opensource.org/licenses/MIT
+
 /home/nesh/csharp_tutorials/first_tutorial/bin/Debug/net6.0/first_tutorial
 /home/nesh/csharp_tutorials/first_tutorial/bin/Debug/net6.0/first_tutorial.deps.json
 /home/nesh/csharp_tutorials/first_tutorial/bin/Debug/net6.0/first_tutorial.runtimeconfig.json

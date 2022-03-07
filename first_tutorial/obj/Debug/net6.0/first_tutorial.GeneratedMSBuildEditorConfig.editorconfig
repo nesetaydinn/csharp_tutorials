@@ -1,3 +1,8 @@
+// Copyright (c) 2022 Neşet Aydın
+// 
+// This software is released under the MIT License.
+// https://opensource.org/licenses/MIT
+
 is_global = true
 build_property.TargetFramework = net6.0
 build_property.TargetPlatformMinVersion = 

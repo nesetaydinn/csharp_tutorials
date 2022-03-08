@@ -19,4 +19,11 @@ Firstly, a processor implement a machine codes instructions, the machine codes h
     B-.work on.->A;
 ```
 
-## C# programing language:
+## About on C# programing language:
+"C# is pronounced "C-Sharp".
+
+It is an object-oriented programming language created by Microsoft that runs on the .NET Framework.
+
+C# has roots from the C family, and the language is close to other popular languages like C++ and Java.
+
+The first version was released in year 2002. The latest version, C# 8, was released in September 2019." [(w3schools)](https://www.w3schools.com/cs/cs_intro.php)

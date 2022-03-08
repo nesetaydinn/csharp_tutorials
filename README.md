@@ -33,7 +33,8 @@ After vscode has been install, touch <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>X
 2. vscode-icons
 
 ## Tutorial docs
-1. [First tutorial: Create first project and print Hello, Aliens! ](https://github.com/nesetaydinn/csharp_tutorials/blob/main/first_tutorial/first_tutorial_doc.md)
+1. [First tutorial: Create first project and print Hello, Aliens! ](first_tutorial/first_tutorial_doc.md)
+2. [Second tutorial: Difference between .net framework & c# programing language ](second_tutorial/second_tutorial_doc.md)
 
 ## LICENSE
 
